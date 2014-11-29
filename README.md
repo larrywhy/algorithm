@@ -1,4 +1,4 @@
 algorithm
 =========
 
-for practice
+for practice purpose.
